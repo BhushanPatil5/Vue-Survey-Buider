@@ -1,0 +1,283 @@
+{
+    "pages": [
+        {
+            "name": "page1",
+            "elements": [
+                {
+                    "type": "radiogroup",
+                    "name": "question1",
+                    "title": "When do you plan to buy a new mobile phone or upgrade your current phone?",
+                    "choices": [
+                        {
+                            "value": "Within the next 6 months",
+                            "text": "Within the next 6 months"
+                        },
+                        {
+                            "value": "In 6 to 12 months",
+                            "text": "In 6 to 12 months"
+                        },
+                        {
+                            "value": "In 12 to 18 months",
+                            "text": "In 12 to 18 months"
+                        },
+                        {
+                            "value": "In 18 to 24 months",
+                            "text": "In 18 to 24 months"
+                        },
+                        {
+                            "value": "After 24 months",
+                            "text": "After 24 months"
+                        },
+                        {
+                            "value": "I don't know / I don't plan to buy a new mobile phone",
+                            "text": "I don't know / I don't plan to buy a new mobile phone"
+                        }
+                    ]
+                },
+                {
+                    "type": "radiogroup",
+                    "name": "question2",
+                    "title": "Have you delayed your mobile phone purchase as a result of the COVID-19 pandemic?",
+                    "choices": [
+                        {
+                            "value": "Yes",
+                            "text": "Yes"
+                        },
+                        {
+                            "value": "No",
+                            "text": "No"
+                        },
+                        {
+                            "value": "I have no plans to buy a new mobile phone",
+                            "text": "I have no plans to buy a new mobile phone"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page2",
+            "elements": [
+                {
+                    "type": "radiogroup",
+                    "name": "question3",
+                    "title": "How likely will you purchase a mobile phone online, when many stores are closed due to the COVID-19 pandemic?",
+                    "choices": [
+                        {
+                            "value": "Definitely will",
+                            "text": "Definitely will"
+                        },
+                        {
+                            "value": "Probably will",
+                            "text": "Probably will"
+                        },
+                        {
+                            "value": "May or may not",
+                            "text": "May or may not"
+                        },
+                        {
+                            "value": "Probably will not",
+                            "text": "Probably will not"
+                        },
+                        {
+                            "value": "Definitely will not",
+                            "text": "Definitely will not"
+                        }
+                    ]
+                },
+                {
+                    "type": "radiogroup",
+                    "name": "question4",
+                    "title": "Where did you purchase your current mobile phone?",
+                    "choices": [
+                        {
+                            "value": "Brand website",
+                            "text": "Brand website"
+                        },
+                        {
+                            "value": "E-commerce website",
+                            "text": "E-commerce website"
+                        },
+                        {
+                            "value": "Telco website",
+                            "text": "Telco website"
+                        },
+                        {
+                            "value": "Offline stores",
+                            "text": "Offline stores"
+                        },
+                        {
+                            "value": "None of the above",
+                            "text": "None of the above"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page3",
+            "elements": [
+                {
+                    "type": "checkbox",
+                    "name": "question5",
+                    "title": "Which of the following activities did you increase the usage the most on your mobile phone during the COVID-19 pandemic?",
+                    "choices": [
+                        {
+                            "value": "Gaming",
+                            "text": "Gaming"
+                        },
+                        {
+                            "value": "Watching TV shows/ movies",
+                            "text": "Watching TV shows/ movies"
+                        },
+                        {
+                            "value": "Video meetings/ calls",
+                            "text": "Video meetings/ calls"
+                        },
+                        {
+                            "value": "Social networking",
+                            "text": "Social networking"
+                        },
+                        {
+                            "value": "None of the above",
+                            "text": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "type": "checkbox",
+                    "name": "question6",
+                    "title": "Which of the following work-related technology products have you considered purchasing or have already purchased, due to increased staying at home during the COVID-19 pandemic?",
+                    "choices": [
+                        {
+                            "value": "Computer monitor",
+                            "text": "Computer monitor"
+                        },
+                        {
+                            "value": "Laptop computer",
+                            "text": "Laptop computer"
+                        },
+                        {
+                            "value": "Desktop computer",
+                            "text": "Desktop computer"
+                        },
+                        {
+                            "value": "Printer",
+                            "text": "Printer"
+                        },
+                        {
+                            "value": "Tech accessories (eg. Headphones, keyboard, mouse)",
+                            "text": "Tech accessories (eg. Headphones, keyboard, mouse)"
+                        },
+                        {
+                            "value": "None Of the above",
+                            "text": "None Of the above"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page4",
+            "elements": [
+                {
+                    "type": "checkbox",
+                    "name": "question7",
+                    "title": "Which of the following technology products have you considered purchasing or have already purchased, due to increased staying at home during the COVID-19 pandemic?",
+                    "choices": [
+                        {
+                            "value": "TV",
+                            "text": "TV"
+                        },
+                        {
+                            "value": "Tablet",
+                            "text": "Tablet"
+                        },
+                        {
+                            "value": "Action camera",
+                            "text": "Action camera"
+                        },
+                        {
+                            "value": "Home appliance (eg. dishwasher, washing machine)",
+                            "text": "Home appliance (eg. dishwasher, washing machine)"
+                        },
+                        {
+                            "value": "None of the above",
+                            "text": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "type": "radiogroup",
+                    "name": "question8",
+                    "title": "Do you want to hear more from Consumer Tech brands on Twitter now than before?",
+                    "choices": [
+                        {
+                            "value": "yes",
+                            "text": "yes"
+                        },
+                        {
+                            "value": "no",
+                            "text": "no"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page5",
+            "elements": [
+                {
+                    "type": "radiogroup",
+                    "name": "question9",
+                    "title": "What kind of information do you want to hear from Consumer Technology Companies/Brands now?",
+                    "choices": [
+                        {
+                            "value": "Informative",
+                            "text": "Informative"
+                        },
+                        {
+                            "value": "Supportive",
+                            "text": "Supportive"
+                        },
+                        {
+                            "value": "Encouraging",
+                            "text": "Encouraging"
+                        },
+                        {
+                            "value": "None of the above",
+                            "text": "None of the above"
+                        }
+                    ]
+                },
+                {
+                    "type": "radiogroup",
+                    "name": "question10",
+                    "title": "What is your age and gender?",
+                    "choices": [
+                        {
+                            "value": "18-34 male",
+                            "text": "18-34 male"
+                        },
+                        {
+                            "value": "35-54 male",
+                            "text": "35-54 male"
+                        },
+                        {
+                            "value": "18-34 female",
+                            "text": "18-34 female"
+                        },
+                        {
+                            "value": "35-54 female",
+                            "text": "35-54 female"
+                        },
+                        {
+                            "value": "None of the above",
+                            "text": "None of the above"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
